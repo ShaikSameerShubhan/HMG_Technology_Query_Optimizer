@@ -7,7 +7,7 @@ A system where AI assistants help optimize your database queries and reduce cost
 
 ---
 
-##  Background Knowledge (5-minute read)
+##  Background Knowledge 
 
 ### What is Amazon Redshift?
 
@@ -25,7 +25,7 @@ Instead of one general AI, you have **specialized AI assistants**:
 
 ---
 
-## Step 1: Set Up Your AWS Account (15 minutes)
+## Step 1: Set Up Your AWS Account 
 
 ### 1.1 Create AWS Account
 - Visit [aws.amazon.com](https://aws.amazon.com)
@@ -39,7 +39,7 @@ Instead of one general AI, you have **specialized AI assistants**:
 
 ---
 
-##  Step 2: Create Your First Redshift Cluster (20 minutes)
+##  Step 2: Create Your First Redshift Cluster 
 
 ### 2.1 Navigate to Redshift
 - In AWS Console, search for **"Redshift"**
@@ -58,7 +58,7 @@ Instead of one general AI, you have **specialized AI assistants**:
 
 ---
 
-##  Step 3: Load Sample Data (15 minutes)
+##  Step 3: Load Sample Data 
 
 ### 3.1 Connect to Your Database
 - Use **Query Editor v2** in AWS Console
@@ -115,8 +115,7 @@ ORDER BY s.sale_amount DESC;
 
 ---
 
-##  Step 4: Set Up AWS Secrets Manager (10 minutes)
-
+##  Step 4: Set Up AWS Secrets Manager 
 ### 4.1 Store Database Credentials Securely
 
 * Go to **AWS Console > Secrets Manager**
@@ -132,7 +131,7 @@ ORDER BY s.sale_amount DESC;
 
 ---
 
-##  Step 5: Set Up AI Optimization (25 minutes)
+##  Step 5: Set Up AI Optimization 
 
 ### 5.1 Enable Amazon Bedrock (Claude AI)
 
