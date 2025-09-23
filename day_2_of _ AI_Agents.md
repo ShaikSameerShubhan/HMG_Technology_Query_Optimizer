@@ -127,5 +127,3 @@ The following architecture focuses on **Oracle SQL**:
 ## 6. Next Steps
 
 - Await confirmation to proceed with Oracle SQL setup.  
-- Begin implementing the AI sub-agents and API layer.  
-- Validate the workflow end-to-end in the Sandbox environment.  
