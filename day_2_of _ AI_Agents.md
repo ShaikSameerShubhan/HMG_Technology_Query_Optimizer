@@ -1,11 +1,3 @@
-Got it ✅
-Here’s a **complete `.md` file draft** you can use for documentation. It explains:
-
-* Why you’re planning to move to **Oracle SQL** instead of AWS Redshift
-* Your **execution plan** (step-by-step)
-* The **system design (with ASCII diagram)**
-* How the **end-to-end workflow** operates
-
 ---
 
 ```markdown
