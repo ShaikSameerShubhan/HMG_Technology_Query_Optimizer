@@ -49,9 +49,6 @@ If approved, the plan is as follows:
 
 ## 3. System Design
 The following architecture focuses on **Oracle SQL**:
-
-```
-
 ```
     +-------------+
     |   User /    |
