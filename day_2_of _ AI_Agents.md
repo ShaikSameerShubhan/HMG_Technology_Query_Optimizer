@@ -1,6 +1,3 @@
----
-
-```markdown
 # Oracle SQL Based Query Optimization System
 
 ## 1. Why Move from AWS Redshift to Oracle SQL?
@@ -51,8 +48,7 @@ If approved, the plan is as follows:
 ---
 
 ## 3. System Design
-
-The following architecture focuses only on **Oracle SQL**:
+The following architecture focuses on **Oracle SQL**:
 
 ```
 
